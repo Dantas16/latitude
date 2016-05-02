@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <row>
+	<register>
+	    <column label="id">00</column>
+	    <column label="code">0001</column>
+	    <column label="adress">Av. Paulista</column>
+	    <column label="city">São Paulo</column>
+	</register>
+    </row>
+    
+    <row>
+	<register>
+	    <column label="id">01</column>
+	    <column label="code">0002</column>
+	    <column label="adress">Boa vista</column>
+	    <column label="city">São Paulo</column>
+	</register>
+    </row>
+    
+    <row>
+	<register>
+	    <column label="id">02</column>
+	    <column label="code">0003</column>
+	    <column label="adress">Rua 13 de Maio</column>
+	    <column label="city">São Paulo</column>
+	</register>
+    </row>
+    
+    <row>
+	<register>
+	    <column label="id">03</column>
+	    <column label="code">0004</column>
+	    <column label="adress">Av. Paulista 880</column>
+	    <column label="city">São Paulo</column>
+	</register>
+    </row>
+</main>
